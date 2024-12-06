@@ -43,7 +43,9 @@
       "descripcion": "duoc1234",
       "foto": "https://i.ibb.co/GJcmDM8/pizza-party.png",
       "fecha": "",
-      "lugar": "Sede"
+      "lugar": "Sede",
+      "asistentes": []
+      
     },
     {
       "id": "2",
@@ -51,7 +53,8 @@
       "descripcion": "duoc1234",
       "fecha": "",
       "foto": "https://i.ibb.co/GJcmDM8/pizza-party.png",
-      "lugar": "Sede"
+      "lugar": "Sede",
+      "asistentes": []
     },
     {
       "id": "3",
@@ -59,7 +62,8 @@
       "descripcion": "duoc1234",
       "foto": "https://i.ibb.co/GJcmDM8/pizza-party.png",
       "fecha": "",
-      "lugar": "Sede"
+      "lugar": "Sede",
+      "asistentes": []
     }
   ]
 }
